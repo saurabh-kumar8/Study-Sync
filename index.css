@@ -154,6 +154,7 @@
    display: flex;
    align-items: center;
    justify-content: center;
+   border-radius: 1.225rem;
 }
 
 .imgbox{
@@ -161,6 +162,7 @@
    box-shadow: 0px 4px 8px rgba(0,0,0,0.1);
    height: 50vh;
    width: 70vw;
+   border-radius: 1.225rem;
 }
 
 .imgbox img{
@@ -819,6 +821,7 @@
       align-items: start;
       padding: 0 0.5rem;
       padding-right: 2rem;
+     
    }
 
    .footerleft{
