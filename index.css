@@ -817,5 +817,12 @@
 @media screen and (max-width:580px) {
    .footertop{
       align-items: start;
+      padding: 0 1rem;
    }
+
+   .footerleft{
+      margin-left: 0;
+     margin-right: 6rem;
+   }
+
 }
